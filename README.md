@@ -1,1 +1,1 @@
-Utilizes raspicam to detect line and navigate it infinitely and renavigates back to line after obstacle avoidance
+Utilizes raspicam follow a line in a loop infinitely and renavigates back to jt after obstacle avoidance
